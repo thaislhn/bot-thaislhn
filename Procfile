@@ -1,1 +1,1 @@
-worker: index.js
+worker: nonde index.js
